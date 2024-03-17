@@ -20,6 +20,6 @@ ctx.stroke();//draws the circle
 ctx.font = "30px Arial";// fontsize, fontstyle
 ctx.fillStyle = "white";
 ctx.fillText("Hello world", 10, 50) // text, x,y
-//////////////////////
+
 
 
